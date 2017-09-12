@@ -1,0 +1,11 @@
+{
+    "presets": [
+        "es2015",
+        "flow"
+    ],
+    "plugins": [
+        "function-composition",
+        "implicit-function",
+        "transform-scala-lambda"
+    ]
+}
