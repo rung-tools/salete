@@ -1,0 +1,26 @@
+{
+  "name": "salete",
+  "version": "0.1.0",
+  "description": "The awesome human tester for CLI applications",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rung-tools/salete.git"
+  },
+  "keywords": [
+    "salete",
+    "tests",
+    "bdd",
+    "tdd",
+    "cli"
+  ],
+  "author": "Marcelo Camargo <marcelocamargo@linuxmail.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rung-tools/salete/issues"
+  },
+  "homepage": "https://github.com/rung-tools/salete#readme"
+}
